@@ -1,0 +1,12 @@
+{
+	"name": "Duolingo Harts Bypass",
+	"description": "Bypass the Harts popup on Duolingo and continue learning!",
+	"version": "1.0",
+	"manifest_version": 3,
+	"content_scripts": [
+		{
+			"js": ["main.js"],
+			"matches": ["https://www.duolingo.com/lesson"]
+		}
+	]
+}
