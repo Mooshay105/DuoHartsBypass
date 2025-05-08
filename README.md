@@ -1,5 +1,7 @@
 # Duolingo Harts Bypass
 
+A bug demo for the Duolingo Harts Bypass.
+
 ## How it works:
 
 It looks for the following elements and removes them when added to the page:
